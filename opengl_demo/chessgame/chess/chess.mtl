@@ -1,0 +1,72 @@
+newmtl wooddar0
+Ka 0 0 0
+Ns 4.73772
+Ks 0.623529 0.639216 0.560784
+Kd 0.161551 0.0413659 0.00220712
+map_Kd wooddar0.bmp
+newmtl wooddar1
+Ka 0 0 0
+Ns 4.73772
+Ks 0.623529 0.639216 0.560784
+Kd 0.161551 0.0413659 0.00220712
+map_Kd wooddar1.bmp
+newmtl wooddar2
+Ka 0 0 0
+Ns 4.73772
+Ks 0.623529 0.639216 0.560784
+Kd 0.161551 0.0413659 0.00220712
+map_Kd wooddar2.bmp
+newmtl wooddar3
+Ka 0 0 0
+Ns 4.73772
+Ks 0.623529 0.639216 0.560784
+Kd 0.161551 0.0413659 0.00220712
+map_Kd wooddar3.bmp
+newmtl wooddar4
+Ka 0 0 0
+Ns 4.73772
+Ks 0.623529 0.639216 0.560784
+Kd 0.161551 0.0413659 0.00220712
+map_Kd wooddar4.bmp
+newmtl wooddar5
+Ka 0 0 0
+Ns 4.73772
+Ks 0.623529 0.639216 0.560784
+Kd 0.161551 0.0413659 0.00220712
+map_Kd wooddar5.bmp
+newmtl woodlig0
+Ka 0 0 0
+Ns 37.0071
+Ks 0.623529 0.639216 0.560784
+Kd 0.646162 0.565369 0.434441
+map_Kd woodlig0.bmp
+newmtl woodlig1
+Ka 0 0 0
+Ns 37.0071
+Ks 0.623529 0.639216 0.560784
+Kd 0.646162 0.565369 0.434441
+map_Kd woodlig1.bmp
+newmtl woodlig2
+Ka 0 0 0
+Ns 37.0071
+Ks 0.623529 0.639216 0.560784
+Kd 0.646162 0.565369 0.434441
+map_Kd woodlig2.bmp
+newmtl woodlig3
+Ka 0 0 0
+Ns 37.0071
+Ks 0.623529 0.639216 0.560784
+Kd 0.646162 0.565369 0.434441
+map_Kd woodlig3.bmp
+newmtl woodlig4
+Ka 0 0 0
+Ns 37.0071
+Ks 0.623529 0.639216 0.560784
+Kd 0.646162 0.565369 0.434441
+map_Kd woodlig4.bmp
+newmtl woodlig5
+Ka 0 0 0
+Ns 37.0071
+Ks 0.623529 0.639216 0.560784
+Kd 0.646162 0.565369 0.434441
+map_Kd woodlig5.bmp
