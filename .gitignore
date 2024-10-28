@@ -10,3 +10,46 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+
+
+# Build directories
+build/
+out/
+bin/
+obj/
+
+# Temporary files and IDE-specific files
+*.swp
+*.swo
+*.user
+*.log
+
+# Compiled C++ and CUDA object files and binaries
+*.o        # C++ and CUDA object files
+*.obj      # Object files (common on Windows)
+*.exe      # Executable files
+*.out      # Executable output
+*.a        # Static libraries
+*.lib      # Static libraries (Windows)
+*.dll      # Dynamic libraries (Windows)
+*.so       # Shared objects (Linux)
+*.dylib    # Dynamic libraries (macOS)
+*.lo       # Compiled object for libtool
+*.lai      # Compiled archive for libtool
+
+# CUDA-specific files
+*.cubin    # CUDA binary files
+*.ptx      # CUDA parallel thread execution files
+*.fatbin   # CUDA fat binary files
+*.sass     # CUDA assembly files
+
+# Debug files
+*.dSYM/    # macOS debug file directories
+*.d        # Dependency files
+
+# Other files
+*.log      # Log files
+.DS_Store  # macOS system file
+Thumbs.db  # Windows system file
+.vscode/   # Visual Studio Code settings
+.idea/     # IntelliJ and CLion settings
